@@ -1,0 +1,53 @@
+body{
+    background-image:url(6100.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0;
+    
+}
+.sidenav{
+    height: 100%;
+    width: 150px;
+    position: fixed;
+    background-color: rosybrown;
+    overflow: hidden;
+    padding-top: 30px;
+    
+}
+.sidenav a{
+    padding: 16px 8px 8px 18px;
+    font-size: 25px;
+    text-decoration: none;
+    color: blue;
+    display: block;
+    
+}
+.sidenav a:hover{
+    color: black;
+}
+h1{
+    font-size: 45px;
+    padding-top: 100px;
+    padding-left: 45%;
+    font-family: lato;
+    color: black;
+    
+}
+h2{
+    padding: 50px;
+    padding-left: 42%;
+    font-size: 30px;
+    font-family: lato;
+    color: saddlebrown;
+    
+    
+}
+.footer{
+    padding-left: 8px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: blue;
+    text-align: left;
+}
